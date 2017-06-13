@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VideoCompressor</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_select_picture">SiliCompressor Demo</string>
+    <string name="choose_a_pic">Choose a picture</string>
+    <string name="video_is_being_compress">Compression of the video is in progress</string>
+    <string name="video_compression_complete">Video Compression Complete</string>
+</resources>

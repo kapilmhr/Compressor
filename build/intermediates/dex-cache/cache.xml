@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/frantic/AndroidStudioProjects/VideoCompressor/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/frantic/AndroidStudioProjects/VideoCompressor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5efd7dca9c658c8d132f0f1064d461baea7bb75f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frantic/AndroidStudioProjects/VideoCompressor/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb221c205cc9bff379ff11f7452156e5146836c9">
+        <dex dex="/Users/frantic/AndroidStudioProjects/VideoCompressor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9ae76fed93db01048f5361fb1fcc3c188cbe8270/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frantic/AndroidStudioProjects/VideoCompressor/kplcompressor/build/intermediates/bundles/default/libs/aspectjrt-1.7.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b88f73cd0cd6023744da1bc2e8e19567ea8eeb5">
+        <dex dex="/Users/frantic/AndroidStudioProjects/VideoCompressor/app/build/intermediates/transforms/dex/debug/folders/1000/8/aspectjrt-1.7.3_1a47ddc4aaf9e37510d117b4313b9a75aa8d2780/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/frantic/AndroidStudioProjects/VideoCompressor/kplcompressor/build/intermediates/bundles/default/libs/isoparser-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="50c23aac4ffd21684429c50aa508cdb4702e476c">
+        <dex dex="/Users/frantic/AndroidStudioProjects/VideoCompressor/app/build/intermediates/transforms/dex/debug/folders/1000/8/isoparser-1.0.6_a598f5f98e8708b50d0edc0c14c69b902198eab4/classes.dex" />
+    </item>
+
+</items>
