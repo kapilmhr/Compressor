@@ -81,5 +81,3 @@ class VideoCompressAsyncTask extends AsyncTask<String, String, String> {
             Log.i("compressor", "Path: "+compressedFilePath);
         }
     }
-    ```
-    
