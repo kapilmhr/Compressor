@@ -24,7 +24,15 @@ dependencies {
 
 ## How to use
 
+#### Call the compression
+
 ```java
+  new VideoCompressAsyncTask(this).execute(capturedUri.toString(), f.getPath());
+```
+
+#### Compress It Asynchronouslly
+
+``` java
 class VideoCompressAsyncTask extends AsyncTask<String, String, String> {
 
         Context mContext;
@@ -70,7 +78,7 @@ class VideoCompressAsyncTask extends AsyncTask<String, String, String> {
             compressionMsg.setVisibility(View.GONE);
             picDescription.setVisibility(View.VISIBLE);
             picDescription.setText(text);
-            Log.i("Silicompressor", "Path: "+compressedFilePath);
+            Log.i("compressor", "Path: "+compressedFilePath);
         }
     }
     ```
